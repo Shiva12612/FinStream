@@ -1,0 +1,8 @@
+boto3
+pyspark
+pandas
+pyarrow
+kafka-python
+apache-airflow
+pytest
+pytest-cov

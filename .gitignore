@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# AWS
+.aws/
+*.pem
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Airflow
+airflow/logs/
+airflow/airflow.cfg
+airflow/webserver_config.py
+
+# Kafka
+kafka/data/
+
+# Test
+.pytest_cache/
+.coverage
+
+# Terraform / Infrastructure
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Secrets
+secrets/
+credentials/
